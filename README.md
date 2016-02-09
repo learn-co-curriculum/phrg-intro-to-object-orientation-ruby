@@ -9,7 +9,7 @@
 * Identify the scope of an instance variable.
 * Read an instance variable through a reader instance method.
 * Use `attr_accessor` to define reader and writer for attributes.
-* Hook into an objects instantiation with `#initialiaze`
+* Hook into an objects instantiation with `#initialize`
 
 ## Video
 
