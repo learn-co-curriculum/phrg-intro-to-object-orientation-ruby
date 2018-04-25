@@ -19,4 +19,4 @@
 
 _This video is meant to be a review of the first few topics in Object Orientation in Ruby._
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/intro-to-object-orientation-ruby' title='Intro to Object Orientation - Ruby - Review Lecture'>Intro to Object Orientation - Ruby - Review Lecture</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Intro to Object Orientation - Ruby - Review Lecture</p>
