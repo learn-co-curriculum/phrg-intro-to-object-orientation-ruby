@@ -19,4 +19,7 @@
 
 _This video is meant to be a review of the first few topics in Object Orientation in Ruby._
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-intro-to-object-orientation-ruby/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-intro-to-object-orientation-ruby/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Intro to Object Orientation - Ruby - Review Lecture</p>
